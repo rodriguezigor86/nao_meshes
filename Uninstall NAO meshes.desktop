@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall NAO meshes
+Comment=Uninstall
+Icon=
+Exec=/home/bee/Desktop/New Folder/uninstall
+Terminal=false
+Path=/home/bee/Desktop/New Folder
